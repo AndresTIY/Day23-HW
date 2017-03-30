@@ -1,0 +1,27 @@
+.blog-view {
+
+}
+.column-1 {
+  box-sizing: border-box;
+  background: $color-header-bg;
+  border: 1px solid $color-offwhite;
+  width: 30%;
+  height: 30rem;
+  float: left;
+  margin: 1rem;
+}
+
+.column-2 {
+  box-sizing: border-box;
+  background: $color-header-bg;
+  border: 1px solid $color-offwhite;
+  width: 60%;
+  height: 30rem;
+  float: left;
+  margin: 1rem;
+
+}
+
+li {
+  margin: .5rem 0;
+}
